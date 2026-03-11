@@ -119,5 +119,5 @@ Actualizare esta sección con GitHub Actions.
   Email: gabrielrolonth@gmail.com <br/>
   LinkedIn: https://www.linkedin.com/in/thianRolon <br/>
   X: https://x.com/thianRolon <br/>
-  Portafolio: En proceso...
+  Portafolio: En proceso....
 </p>
