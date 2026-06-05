@@ -56,7 +56,7 @@ Desarrollador enfocado en arquitectura empresarial, sistemas escalables y constr
 </p>
   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThianR&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://metrics.lecoq.io/ThianR?template=classic&base=languages&languages.ignored=html,css&config.timezone=America/Asuncion" alt="Metrics" />
 </p>
 
 <h3 align="center">Database</h3>
