@@ -55,10 +55,6 @@ Desarrollador enfocado en arquitectura empresarial, sistemas escalables y constr
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 </p>
   
-<p align="center">
-  <img src="https://metrics.lecoq.io/ThianR?template=classic&base=languages&languages.ignored=html,css&config.timezone=America/Asuncion" alt="Metrics" />
-</p>
-
 <h3 align="center">Database</h3>
 
 <p align="center">
@@ -72,12 +68,6 @@ Desarrollador enfocado en arquitectura empresarial, sistemas escalables y constr
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
   <img src="https://img.shields.io/badge/Monitoring-000000?style=for-the-badge"/>
-</p>
----
-<h2 align="center">GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/ThianR?template=classic&base=&plugin_achievements=true&plugin_achievements.only=stargazer,champion,maintainer,octonaut&config.timezone=America/Asuncion" alt="GitHub Achievements" />
 </p>
 
 ---
