@@ -54,6 +54,10 @@ Desarrollador enfocado en arquitectura empresarial, sistemas escalables y constr
   <img src="https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 </p>
+  
+<p align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThianR&layout=compact&theme=tokyonight&langs_count=20&hide_border=true&exclude_repo=repositorio-prueba)
+</p>
 
 <h3 align="center">Database</h3>
 
