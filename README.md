@@ -74,7 +74,6 @@ Desarrollador enfocado en arquitectura empresarial, sistemas escalables y constr
   <img src="https://img.shields.io/badge/Monitoring-000000?style=for-the-badge"/>
 </p>
 ---
-
 <h2 align="center">GitHub Trophies</h2>
 
 <p align="center">
