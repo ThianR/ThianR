@@ -79,7 +79,7 @@ Desarrollador enfocado en arquitectura empresarial, sistemas escalables y constr
 <h2 align="center">GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThianR&column=7&margin-w=8&margin-h=8"/>
+  <img src="https://metrics.lecoq.io/ThianR?template=classic&base=&plugin_achievements=true&plugin_achievements.secret=true" alt="GitHub Achievements" />
 </p>
 
 ---
@@ -87,24 +87,15 @@ Desarrollador enfocado en arquitectura empresarial, sistemas escalables y constr
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThianR&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThianR&layout=compact"/>
+  <img src="https://github-readme-stats-git-master-denvercoder1s-projects.vercel.app/api?username=ThianR&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
 
-<h2 align="center">Streak</h2>
+<h2 align="center">Streak & Activity</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ThianR"/>
-</p>
-
----
-
-<h2 align="center">Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThianR"/>
+  <img src="https://metrics.lecoq.io/ThianR?template=classic&base=&plugin_isocalendar=true&plugin_isocalendar.duration=full-year" alt="Activity Calendar" />
 </p>
 
 ---
