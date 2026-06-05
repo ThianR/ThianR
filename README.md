@@ -73,13 +73,12 @@ Desarrollador enfocado en arquitectura empresarial, sistemas escalables y constr
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
   <img src="https://img.shields.io/badge/Monitoring-000000?style=for-the-badge"/>
 </p>
-
 ---
 
 <h2 align="center">GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/ThianR?template=classic&base=&plugin_achievements=true&plugin_achievements.secret=true" alt="GitHub Achievements" />
+  <img src="https://metrics.lecoq.io/ThianR?template=classic&base=&plugin_achievements=true&plugin_achievements.only=stargazer,champion,maintainer,octonaut&config.timezone=America/Asuncion" alt="GitHub Achievements" />
 </p>
 
 ---
@@ -87,7 +86,7 @@ Desarrollador enfocado en arquitectura empresarial, sistemas escalables y constr
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-denvercoder1s-projects.vercel.app/api?username=ThianR&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ThianR&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
