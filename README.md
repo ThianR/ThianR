@@ -72,26 +72,48 @@ Desarrollador enfocado en arquitectura empresarial, sistemas escalables y constr
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ThianR&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/ThianR">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=ThianR&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/ThianR">
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=ThianR&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="100%">
+      <h3 align="center"><strong>Tᴏᴘ Langs</strong></h3>
+      <p align="center">
+        <img align="center" height="195px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ThianR&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=8&layout=compact&hide_border=true" />
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
 <h2 align="center">Streak & Activity</h2>
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/ThianR?template=classic&base=&plugin_isocalendar=true&plugin_isocalendar.duration=full-year" alt="Activity Calendar" />
-</p>
-
----
-
-<h2 align="center">Thought of the Day</h2>
-
-<p align="center">
-Actualizare esta sección con GitHub Actions.
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ThianR/ThianR/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThianR/ThianR/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/ThianR/ThianR/output-3d-contrib/day.svg" />
+	</picture>
 </p>
 
 ---
