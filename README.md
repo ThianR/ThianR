@@ -121,8 +121,13 @@ Desarrollador enfocado en arquitectura empresarial, sistemas escalables y constr
 <h2 align="center">Contacto</h2>
 
 <p align="center">
-  Email: gabrielrolonth@gmail.com <br/>
-  LinkedIn: https://www.linkedin.com/in/thianRolon <br/>
-  X: https://x.com/thianRolon <br/>
-  Portafolio: En proceso....
+  <a href="mailto:gabrielrolonth@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gabrielrolonth%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/thianRolon" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-thianRolon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/thianRolon" target="_blank">
+    <img src="https://img.shields.io/badge/X-thianRolon-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
 </p>
